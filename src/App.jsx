@@ -1,0 +1,9 @@
+import { ChatEngine } from "react-chat-engine";
+import "./App.css";
+import { Auth } from "./components/Auth";
+
+function App() {
+  return <Auth />;
+}
+
+export default App;
